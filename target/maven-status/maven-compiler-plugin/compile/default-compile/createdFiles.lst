@@ -1,0 +1,4 @@
+mvc\rest\config\SpringMvcConfiguration.class
+mvc\rest\config\SpringMvcInitializer.class
+mvc\rest\web\Controlleur.class
+mvc\rest\web\Vehicule.class
